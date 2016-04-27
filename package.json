@@ -4,7 +4,7 @@
   "description": "Interactive InDesign script that allows users to resize page items of the same object style",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mcshaman/Resize-page-items-by-style.git"
+    "url": "git+https://github.com/mcshaman/resize-page-items-by-style.git"
   },
   "keywords": [
     "indesign"
@@ -12,9 +12,9 @@
   "author": "McShaman",
   "license": "GPL-3.0+",
   "bugs": {
-    "url": "https://github.com/mcshaman/Resize-page-items-by-style/issues"
+    "url": "https://github.com/mcshaman/resize-page-items-by-style/issues"
   },
-  "homepage": "https://github.com/mcshaman/Resize-page-items-by-style#readme",
+  "homepage": "https://github.com/mcshaman/resize-page-items-by-style#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
